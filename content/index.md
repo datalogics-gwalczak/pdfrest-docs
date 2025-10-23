@@ -67,6 +67,6 @@ Deploy and manage robust PDF solutions on-premises or within private cloud envir
 - [Configure the API Container](/pdfrest-api-toolkit-container/configure-container-api/)
 
   :::alert{icon="lucide:info" type="secondary"}
-  Evaluation access and pricing for the API Toolkit Container is available through the [Datalogics Enterprise Sales Team](mailto\:sales@datalogics.com?subject=pdfRest%20Container%20API%20Inquiry)
+  Evaluation access and pricing for the API Toolkit Container is available through the [Datalogics Enterprise Sales Team](mailto:sales@datalogics.com?subject=pdfRest%20Container%20API%20Inquiry)
   :::
 ::

@@ -24,4 +24,5 @@ export default antfu({
     'tailwind/no-contradicting-classname': ['error'],
     'tailwind/no-unnecessary-arbitrary-value': ['error'],
   },
+  ignores: ['content/**'],
 });

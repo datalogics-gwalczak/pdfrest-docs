@@ -2,6 +2,7 @@ import antfu from '@antfu/eslint-config';
 import tailwind from 'eslint-plugin-tailwindcss';
 
 export default antfu({
+  ignores: ['content/**'],
   stylistic: {
     indent: 2,
     quotes: 'single',
@@ -24,5 +25,4 @@ export default antfu({
     'tailwind/no-contradicting-classname': ['error'],
     'tailwind/no-unnecessary-arbitrary-value': ['error'],
   },
-  ignores: ['content/**'],
 });
